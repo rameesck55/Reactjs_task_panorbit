@@ -1,0 +1,45 @@
+.Top_pro {
+    width: 18vw;
+    height: 14vw;
+    text-align: center;
+    margin-left: 66%;
+    margin-top: 5%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 20px 0px;
+    z-index: 10;
+}
+
+.Top-image {
+    margin-top: 7%;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 7%;
+}
+
+.top_email {
+    font-size: 16px;
+}
+
+.signout {
+    width: 35%;
+    border: none;
+    border-radius: 20px;
+    background-color: brown;
+
+}
+
+.linkintop {
+    text-decoration: none;
+    color: white;
+}
+
+.linkintop:hover {
+    text-decoration: none;
+    color: white;
+}
